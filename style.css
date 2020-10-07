@@ -7,7 +7,7 @@ color: #444;
 font-weight: 400;
 
 /* name */
-h1 {
+#name {
   font-size: 3em;
   color: #33485e;
   text-align: center;
