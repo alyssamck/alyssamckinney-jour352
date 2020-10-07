@@ -1,0 +1,44 @@
+font-family: "Open Sans", Arial, Sans-Serif;
+font-size: 1em;
+color: #444;
+font-weight: 400;
+
+h1 {
+  font-size: 3em;
+  color: #33485e;
+  text-align: center;
+}
+
+#title {
+  font-size: 1.5em;
+  color: #33485e;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  color: white;
+  background-color: #33485e;
+  font-weight: 400;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+h4 {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+h5 {
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+}
+
+p {
+  font-size: 1em;
+}
