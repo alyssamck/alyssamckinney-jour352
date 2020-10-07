@@ -1,10 +1,12 @@
 /* styles for my resume */
 
 /* general settings */
-font-family: "Open Sans", Arial, Sans-Serif;
-font-size: 1em;
-color: #444;
-font-weight: 400;
+body {
+  font-family: "Open Sans", Arial, Sans-Serif;
+  font-size: 1em;
+  color: #444;
+  font-weight: 400;
+}
 
 /* name */
 #name {
