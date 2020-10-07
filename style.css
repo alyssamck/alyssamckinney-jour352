@@ -1,20 +1,26 @@
+<!-- styles for my resume -->
+
+<!-- general settings -->
 font-family: "Open Sans", Arial, Sans-Serif;
 font-size: 1em;
 color: #444;
 font-weight: 400;
 
+<!-- name -->
 h1 {
   font-size: 3em;
   color: #33485e;
   text-align: center;
 }
 
+<!-- title -->
 #title {
   font-size: 1.5em;
   color: #33485e;
   text-transform: uppercase;
 }
 
+<!-- section titles -->
 h2 {
   font-size: 1.5em;
   text-transform: uppercase;
@@ -23,22 +29,26 @@ h2 {
   font-weight: 400;
 }
 
+<!-- job titles -->
 h3 {
   font-weight: 600;
   font-size: 1.5em;
 }
 
+<!-- job orgs -->
 h4 {
   font-weight: 600;
   font-size: 1.5em;
 }
 
+<!-- job dates -->
 h5 {
   font-weight: 400;
   font-size: 1em;
   font-style: italic;
 }
 
+<!-- other writing -->
 p {
   font-size: 1em;
 }
