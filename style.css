@@ -31,7 +31,7 @@ body {
 /* title */
 #title {
   font-size: 1.5em;
-  font-weight: 600px;
+  font-weight: 600;
   text-align: center;
   margin-top: 20px;
   color: #33485e;
@@ -61,7 +61,7 @@ body {
 
 /* job orgs */
 #organization {
-  font-weight: 600;
+  font-weight: 400;
   font-size: 1.25em;
 }
 
