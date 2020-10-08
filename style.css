@@ -32,7 +32,7 @@ body {
 #title {
   font-size: 1.5em;
   font-weight: 600px;
-  align-text: center;
+  text-align: center;
   margin-top: 20px;
   color: #33485e;
   text-transform: uppercase;
