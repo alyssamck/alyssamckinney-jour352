@@ -21,10 +21,11 @@ body {
   font-size: 3em;
   color: #33485e;
   text-align: center;
-  border: 1px solid #33485e;
+  border-bottom: 1px solid #33485e;
   min-width: 300px;
   margin: 0 auto;
   width: 60%;
+  text-transform: uppercase;
 }
 
 /* title */
@@ -89,7 +90,7 @@ body {
   margin: 0px;
   padding: 0px;
   text-align: center;
-  display: inline;
+  display: inline-block;
 }
  /* education */
 #degrees {
