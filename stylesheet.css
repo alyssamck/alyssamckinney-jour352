@@ -3,12 +3,16 @@
   width: 900px;
 }
 
-#headline {
+h1 {
   text-align: center;
   color: #303030;
   font-weight: bold;
   font-family: Helvetica, sans-serif;
-  font-size: 24px;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 13px;
 }
 
 #byline {
