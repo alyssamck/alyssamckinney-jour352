@@ -19,11 +19,12 @@ p {
   font-family: Helvetica, sans-serif;
   font-size: 14px;
   font-style: italic;
+  text-align: center;
 }
 
 img {
     padding: 0;
     display: block;
     margin: 0 auto;
-    max-width: 900px;
+    max-width: 1500px;
 }
