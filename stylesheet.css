@@ -8,9 +8,10 @@ h1 {
   color: #303030;
   font-weight: bold;
   font-family: Helvetica, sans-serif;
+  font-size: 30px;
 }
 
-h1 {
+h2 {
   text-align: center;
   color: #303030;
   font-size: 14px;
@@ -41,5 +42,11 @@ blockquote {
 }
 
 #txt {
+  font-family: Georgia, serif;
   font-size: 13px;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 11px;
 }
