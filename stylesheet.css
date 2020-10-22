@@ -3,6 +3,12 @@
   width: 900px;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 img {
     padding: 0;
     display: block;
