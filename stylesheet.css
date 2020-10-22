@@ -22,9 +22,17 @@ p {
   text-align: center;
 }
 
-img {
+#banner {
     padding: 0;
     display: block;
     margin: 0 auto;
     max-width: 1500px;
+}
+
+
+#pic {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-width: 900px;
 }
