@@ -33,6 +33,6 @@ h2 {
 }
 
 #pagewrap {
-  text-align: center;
-  width: 1500px;
+  margin: 0, auto;
+  width: 1200px;
 }
