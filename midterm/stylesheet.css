@@ -4,6 +4,10 @@
   width: 1200px;
 }
 
+#piccenter {
+  text-align: center;
+}
+
 p {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
