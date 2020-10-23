@@ -18,6 +18,11 @@ blockquote {
   width: 300px;
 }
 
+#txt {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
 p {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
