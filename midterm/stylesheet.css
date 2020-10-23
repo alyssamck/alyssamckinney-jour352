@@ -8,6 +8,16 @@
   text-align: center;
 }
 
+blockquote {
+  font: 24px normal helvetica, sans-serif; 
+  font-style: italic; 
+  margin-left: 15px;
+  color: #0047b3; 
+  border-radius: 5px;
+  float: right;
+  width: 300px;
+}
+
 p {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
