@@ -1,3 +1,7 @@
+#content {
+  margin: 0, auto;
+  width: 1200px;
+}
 
 p {
   font-family: Helvetica, Arial, sans-serif;
@@ -26,9 +30,4 @@ h2 {
   font-family: Georgia, serif;
   font-size: 24px;
   text-align: center;
-}
-
-#pagewrap {
-  margin: 0, auto;
-  width: 1200px;
 }
