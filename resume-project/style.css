@@ -14,6 +14,10 @@
   color: #282828;
 }
 
+#footer {
+  text-align: center;
+}
+
 #dates {
   color: #697a94;
   font-style: italic;
