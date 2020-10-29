@@ -2,6 +2,7 @@
   text-align: center;
   text-transform: uppercase;
   color: #18214d
+  font-family: Lobster;
 }
 
 #company {
@@ -26,9 +27,8 @@
 #contacttxt {
   color: #281C26;
   text-align: center;
-  font-family: Merriweather;
   font-style: bold;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 #icons {
