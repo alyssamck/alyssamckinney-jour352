@@ -1,3 +1,13 @@
 #section {
   text-align: center;
+  text-transform: capitalize;
+  color: #18214d
+}
+
+#company {
+  font-style: italic;
+}
+
+#dates {
+  color: #697a94;
 }
