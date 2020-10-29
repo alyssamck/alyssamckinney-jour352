@@ -29,6 +29,10 @@
   font-family: Merriweather;
 }
 
+#icons {
+  font-size: 100px;
+}
+
 hr {
   text-align: center;
   width: 25%;
