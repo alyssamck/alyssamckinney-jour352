@@ -8,6 +8,11 @@
   color: #697a94;
 }
 
+#port-titles {
+  text-align: center;
+  color: darkgray;
+}
+
 #dates {
   color: #697a94;
   font-style: italic;
