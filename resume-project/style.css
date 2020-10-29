@@ -12,3 +12,10 @@
   color: #697a94;
   font-style: italic;
 }
+
+hr {
+  text-align: center;
+  width: 25%;
+  color: black;
+  border-width: 3px;
+}
