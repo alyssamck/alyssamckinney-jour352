@@ -1,13 +1,14 @@
 #section {
   text-align: center;
-  text-transform: capitalize;
+  text-transform: uppercase;
   color: #18214d
 }
 
 #company {
-  font-style: italic;
+  color: #697a94;
 }
 
 #dates {
   color: #697a94;
+  font-style: italic;
 }
