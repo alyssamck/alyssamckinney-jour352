@@ -38,7 +38,7 @@ hr {
   background-color: white;
 }
 
-.container:hover .overlay {
+.col:hover .overlay {
   opacity: 1;
 }
 
