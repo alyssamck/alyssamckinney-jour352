@@ -6,34 +6,27 @@
 <body>
   <p>Hello</p>
   <script>
-/**
- * sends a request to the specified url from a form. this will change the window location.
- * @param {string} path the path to send the post request to
- * @param {object} params the paramiters to add to the url
- * @param {string} [method=post] the method to use on the form
- */
+  // Post to the provided URL with the specified parameters.
+function post(path, parameters) {
+    var form = $('<form></form>');
 
-function post(path, params, method='post') {
+    form.attr("method", "post");
+    form.attr("action", path);
 
-  // The rest of this code assumes you are not using a library.
-  // It can be made less wordy if you use one.
-  const form = document.createElement('form');
-  form.method = method;
-  form.action = path;
+    $.each(parameters, function(key, value) {
+        var field = $('<input></input>');
 
-  for (const key in params) {
-    if (params.hasOwnProperty(key)) {
-      const hiddenField = document.createElement('input');
-      hiddenField.type = 'hidden';
-      hiddenField.name = key;
-      hiddenField.value = params[key];
+        field.attr("type", "hidden");
+        field.attr("name", key);
+        field.attr("value", value);
 
-      form.appendChild(hiddenField);
-    }
-  }
+        form.append(field);
+    });
 
-  document.body.appendChild(form);
-  form.submit();
+    // The form needs to be a part of the document in
+    // order for us to be able to submit it.
+    $(document.body).append(form);
+    form.submit();
 }
   </script>
 </body>
