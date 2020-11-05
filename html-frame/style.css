@@ -31,8 +31,9 @@
 }
 
 #storyimage {
-  padding: 10px;
-  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
   width: 80%;
 }
 
