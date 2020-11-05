@@ -19,6 +19,10 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+#columntext {
+  text-align: center;
+}
+
 #caption {
   font-size: 1em;
   text-align: center;
