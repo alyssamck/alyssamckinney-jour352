@@ -26,6 +26,10 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+#storyimage {
+  padding: 10px;
+}
+
 p {
   font-family: 'Roboto Slab', serif;
   font-size: 1em;
@@ -35,4 +39,5 @@ p {
 #footer {
   text-align: center;
   font-family: 'Roboto Slab', serif;
+  color: blue;
 }
