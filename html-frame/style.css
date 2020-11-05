@@ -32,6 +32,8 @@
 
 #storyimage {
   padding: 10px;
+  text-align: center;
+  width: 75%;
 }
 
 p {
