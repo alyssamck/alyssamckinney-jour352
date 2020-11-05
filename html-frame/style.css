@@ -11,6 +11,13 @@
   font-weight: 300;
 }
 
+#chapter {
+  font-size: 2em;
+  text-align: left;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
 p {
   font-family: 'Roboto Slab', serif;
   font-size: 1em;
