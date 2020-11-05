@@ -1,0 +1,18 @@
+#headline {
+  text-align: center;
+  color: black;
+  font-family: Lobster;
+  font-weight: 700;
+}
+
+#byline {
+}
+
+p {
+  text-align: center;
+  color: #282828;
+}
+
+#footer {
+  text-align: center;
+}
