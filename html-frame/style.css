@@ -1,8 +1,8 @@
 #headline {
+  font-size: 3em;
   text-align: center;
-  color: black;
-  font-family: Lobster;
   font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #byline {
