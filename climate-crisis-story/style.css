@@ -110,3 +110,17 @@ a:visited {
 a:hover {
   color: #E00000;
 }
+
+#sidebar {
+  color: black; 
+  border-radius: 5px;
+  border: 5px solid #282828;
+  padding: 30px;
+}
+
+#sideheader {
+  background-color: #282828;
+  font-size: 1em;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
