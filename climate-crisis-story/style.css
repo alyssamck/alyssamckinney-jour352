@@ -48,3 +48,13 @@ p {
   color: white;
   background-color: black;
 }
+
+.text-block {
+  position: relative;
+  bottom: 100%;
+  right: 30%;
+  background-color: black;
+  color: white;
+  padding-top: 20%;
+  padding-bottom: 50%;
+}
