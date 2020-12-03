@@ -49,12 +49,20 @@ p {
   background-color: black;
 }
 
-.text-block {
-  position: relative;
-  bottom: 100%;
-  right: 30%;
-  background-color: black;
-  color: white;
-  padding-top: 20%;
-  padding-bottom: 50%;
+#overlay {
+  position: relative; 
+  width: 100%;
+}
+
+#span {
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
 }
