@@ -132,3 +132,9 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   color: black; 
 }
+
+#footline {
+  font-size: .6em;
+  color: #282828;
+  text-style: italic;
+}
