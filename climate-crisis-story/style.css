@@ -68,11 +68,11 @@ span {
 }
 
  #header1 {
-   font: bold 70px Roboto Slab, Serif; 
+   font: bold 4em Roboto Slab, Serif; 
 }
 
 #header2 {
-   font: bold 30px Montserrat, Sans-Serif; 
+   font: bold 2em Montserrat, Sans-Serif; 
 }
 
 #blockquote {
