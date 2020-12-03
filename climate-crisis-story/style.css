@@ -112,13 +112,9 @@ a:hover {
 }
 
 #sidebar {
-  color: black; 
   border-radius: 5px;
   border: 5px solid #282828;
   padding: 30px;
-  font-size: 1em;
-  font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
 }
 
 #sideheader {
@@ -128,4 +124,11 @@ a:hover {
   font-family: 'Roboto Slab', serif;
   color: white;
   text-align: center;
+}
+
+#sidebartxt {
+  font-size: 1em;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  color: black; 
 }
