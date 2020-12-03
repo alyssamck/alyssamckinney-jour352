@@ -61,7 +61,7 @@ span {
    background: rgba(0, 0, 0, 0.7);
    padding: 100px;
    position: absolute; 
-   top: 300px; 
+   top: 200px; 
    left: 0; 
    width: 100%; 
    text-align: center;
@@ -72,5 +72,5 @@ span {
 }
 
 #header2 {
-   font: bold 50px Montserrat, Sans-Serif; 
+   font: bold 30px Montserrat, Sans-Serif; 
 }
