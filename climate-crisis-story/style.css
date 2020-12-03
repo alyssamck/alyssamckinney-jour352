@@ -76,11 +76,11 @@ span {
 }
 
 #blockquote {
-  color: red; 
-  border-radius: 25px;
-  border-left: 5px solid red;
-  border-right: 5px solid red;
-  padding: 5px;
+  color: #700000; 
+  border-radius: 20px;
+  border-left: 5px solid #282828;
+  border-right: 5px solid #282828;
+  padding: 30px;
 }
 
 #quote {
