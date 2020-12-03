@@ -59,9 +59,9 @@ span {
    letter-spacing: -1px;
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
-   padding: 50px;
+   padding: 10%;
    position: absolute; 
-   top: 150px; 
+   top: 20%; 
    left: 0; 
    width: 100%; 
    text-align: center;
