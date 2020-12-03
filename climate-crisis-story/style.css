@@ -94,3 +94,18 @@ span {
   font-size: 1em;
   font-weight: 400;
 }
+
+/* normal link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: #282828;
+}
+
+/* hover link */
+a:hover {
+  color: #E00000;
+}
