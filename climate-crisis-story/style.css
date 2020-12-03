@@ -51,7 +51,7 @@ p {
 
 #overlay {
   position: relative; 
-  width: 95%;
+  width: 90%;
 }
 
 span {
@@ -63,7 +63,7 @@ span {
    position: absolute; 
    top: 220px; 
    left: 0; 
-   width: 100%; 
+   width: 90%; 
    text-align: center;
 }
 
@@ -93,6 +93,7 @@ span {
   font-family: 'Roboto Slab', serif;
   font-size: 1em;
   font-weight: 400;
+  font-style: italic;
 }
 
 /* normal link */
