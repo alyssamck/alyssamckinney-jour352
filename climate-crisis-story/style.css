@@ -116,11 +116,15 @@ a:hover {
   border-radius: 5px;
   border: 5px solid #282828;
   padding: 30px;
-}
-
-#sideheader {
-  background-color: #282828;
   font-size: 1em;
   font-weight: 400;
   font-family: 'Montserrat', sans-serif;
+}
+
+#sideheader {
+  background-color: #E00000;
+  font-size: 2em;
+  font-weight: 400;
+  font-family: 'Roboto Slab', serif;
+  color: white;
 }
