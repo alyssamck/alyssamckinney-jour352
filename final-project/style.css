@@ -10,6 +10,7 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   font-size: 1.5em;
+  color: #9E1717;
 }
 
 #chapter {
@@ -37,14 +38,14 @@
 }
 
 p {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Georgia', serif;
   font-size: 1em;
   font-weight: 400;
 }
 
 #footer {
   text-align: center;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Georgia', serif;
   color: white;
-  background-color: black;
+  background-color: #0B0740;
 }
