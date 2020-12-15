@@ -15,7 +15,7 @@
   text-transform: uppercase;
 }
 
-#chapter {
+.chapter {
   font-size: 2em;
   text-align: left;
   font-weight: 700;
