@@ -40,14 +40,15 @@
 }
 
 p {
-  font-family: 'Georgia', serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 1em;
   font-weight: 400;
 }
 
 #footer {
   text-align: center;
-  font-family: 'Georgia', serif;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
   color: white;
   background-color: #0B0740;
 }
